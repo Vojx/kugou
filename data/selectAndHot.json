@@ -1,0 +1,54 @@
+{
+  "selectSongList":[
+    {
+      "image":"images/select1.jpg",
+      "num":"2469.2万",
+      "songName":"梦想的声音 合辑",
+      "songSinger":"忧兰郁香"
+    },
+    {
+      "image":"images/select2.jpg",
+      "num":"41.0万",
+      "songName":"V.I.P超爱的韩语歌",
+      "songSinger":"腾讯理财通"
+    },
+    {
+      "image":"images/select3.jpg",
+      "num":"11.4万",
+      "songName":"90后的成长记忆",
+      "songSinger":"宇婷亦_vV2ff"
+    },
+    {
+      "image":"images/select4.jpg",
+      "num":"943.5万",
+      "songName":"围炉音乐会 合辑",
+      "songSinger":"满目苍凉"
+    },
+    {
+      "image":"images/select5.jpg",
+      "num":"449.4万",
+      "songName":"KTV聚会必学的华语新歌",
+      "songSinger":"光辉"
+    }
+  ],
+  "hotSongList":[
+    {
+      "image":"images/hotSong1.jpg",
+      "listTitle":"酷音乐流行风向标",
+      "song1":"1 . 筷子兄弟 - 我们是太阳",
+      "song2":"2 . 池昌旭 - KISSING YOU"
+    },
+    {
+      "image":"images/hotSong2.jpg",
+      "listTitle":"酷狗飙升榜",
+      "song1":"1 . 筷子兄弟 - 我们是太阳",
+      "song2":"2 . 陈瑞 - 凄美的回忆"
+    },
+    {
+      "image":"images/hotSong3.jpg",
+      "listTitle":"酷狗TOP500",
+      "song1":"1 . 本兮 - 我梦见我梦见我",
+      "song2":"2 . 唐古 - 你牛什么牛"
+    }
+  ]
+}
